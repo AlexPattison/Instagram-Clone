@@ -1,4 +1,4 @@
-import React form 'react';
+import React from 'react';
 
 export class Single extends React.Component {
   render() {
